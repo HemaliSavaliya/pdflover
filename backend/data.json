@@ -1,0 +1,225 @@
+{
+	"homepage": {
+		"main": {
+			"id": 1,
+			"title": "Every tool you need to work with PDFs in one place",
+			"subtitle": "One location for all the tools you need to work with PDFs. You have access to all the tools that are required to use PDFs. Each is totally free and simple to use. You may combine, divide, compress, convert, rotate, unlock, and watermark PDF files with only a few clicks."
+		},
+
+		"details": [
+			{
+				"id": 1,
+				"img": "image/Merger.svg",
+				"link": "Merge_PDF",
+				"title": "Merge PDF",
+				"description": "Combine PDFs in the order you want with the easiest PDF merger available."
+			},
+			{
+				"id": 2,
+				"img": "image/Merger.svg",
+				"link": "Split_PDF",
+				"title": "Split PDF",
+				"description": "Separate one page or a whole set for easy conversion into independent PDF files."
+			},
+			{
+				"id": 3,
+				"img": "image/Compress.svg",
+				"link": "Compress_PDF",
+				"title": "Compress PDF",
+				"description": "Reduce file size while optimizing for maximal PDF quality."
+			},
+			{
+				"id": 4,
+				"img": "image/PtoJ.svg",
+				"link": "excel_to_pdf",
+				"title": "Excel to PDF",
+				"description": "Make EXCEL spreadsheets easy to read by converting them to PDF."
+			},
+			{
+				"id": 5,
+				"img": "image/PtoJ.svg",
+				"link": "pdf_to_jpg",
+				"title": "PDF to JPG",
+				"description": "Convert each PDF page into a JPG or extract all images contained in a PDF."
+			},
+			{
+				"id": 6,
+				"img": "image/JtoP.svg",
+				"link": "jpg_to_pdf",
+				"title": "JPG to PDF",
+				"description": "Convert JPG images to PDF in seconds. Easily adjust orientation and margins."
+			},
+			{
+				"id": 7,
+				"img": "image/Watermark.svg",
+				"link": "Add_watermark",
+				"title": "Watermark",
+				"description": "Stamp an image or text over your PDF in seconds. Choose the typography, transparency and position."
+			},
+			{
+				"id": 8,
+				"img": "image/Rotate.svg",
+				"link": "Rotate_PDF",
+				"title": "Rotate PDF",
+				"description": "Rotate your PDFs the way you need them. You can even rotate multiple PDFs at once!"
+			},
+			{
+				"id": 9,
+				"img": "image/Unlock.svg",
+				"link": "Unlock_PDF",
+				"title": "Unlock PDF",
+				"description": "Remove PDF password security, giving you the freedom to use your PDFs as you want."
+			},
+			{
+				"id": 10,
+				"img": "image/Protect.svg",
+				"link": "Protect_PDF",
+				"title": "Protect PDF",
+				"description": "Protect PDF files with a password. Encrypt PDF documents to prevent unauthorized access."
+			},
+			{
+				"id": 11,
+				"img": "image/Repair.svg",
+				"link": "Repair_PDF",
+				"title": "Repair PDF",
+				"description": "Repair a damaged PDF and recover data from corrupt PDF. Fix PDF files with our Repair tool."
+			}
+		],
+
+		"premium": {
+			"id": 1,
+			"heading": "Premium Offers More",
+			"subHeading": "With batch processing of data, you may finish tasks more quickly. ",
+			"subHeading1": "You can also use OCR to convert scanned documents and e-sign contracts for your organization.",
+			"button": "Get Premium"
+		},
+
+		"footer": {
+			"googleDrive": "image/GooglePlay.svg",
+			"appStore": "image/AppStore.svg",
+			"copyRightText": "© LoverPDF 2023 ® - Your PDF Editor",
+			"twitter": "image/twitter.svg",
+			"facebook": "image/facebook.svg",
+			"linkedin": "image/linkedin.svg",
+			"instagram": "image/instagram.svg",
+			"pdfLover": "PDFLover",
+			"product": "Product",
+			"solution": "Solution",
+			"company": "Company",
+			"pdfLoverLink": [
+				{ "id": 1, "title": "Home" },
+				{ "id": 2, "title": "Pricing" },
+				{ "id": 3, "title": "Tools" },
+				{ "id": 4, "title": "FAQ" }
+			],
+			"productLink": [
+				{ "id": 1, "title": "PDFLover Desktop" },
+				{ "id": 2, "title": "PDFLover Mobile" },
+				{ "id": 3, "title": "Developer" },
+				{ "id": 4, "title": "Wordpress Plugin" },
+				{ "id": 5, "title": "iloveimg.com" }
+			],
+			"solutionLink": [
+				{ "id": 1, "title": "Business" },
+				{ "id": 2, "title": "Education" }
+			],
+			"companyLink": [
+				{ "id": 1, "title": "Our Story" },
+				{ "id": 2, "title": "Blog" },
+				{ "id": 3, "title": "Press" },
+				{ "id": 4, "title": "Legal & Privacy" },
+				{ "id": 5, "title": "Contact" }
+			]
+		}
+	},
+
+	"detailsPages": {
+		"merge": {
+			"id": 1,
+			"title": "Merge PDF files",
+			"subTitle": "Combine PDFs in the order you want with the easiest PDF merger available.",
+			"button": "Select PDF files",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"split": {
+			"id": 2,
+			"title": "Split PDF file",
+			"subTitle": "Separate one page or a whole set for easy conversion into independent PDF files.",
+			"button": "Select PDF file",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"compress": {
+			"id": 3,
+			"title": "Compress PDF files",
+			"subTitle": "Reduce file size while optimizing for maximal PDF quality.",
+			"button": "Select PDF file",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"jpg_to_pdf": {
+			"id": 4,
+			"title": "JPG to PDF",
+			"subTitle": "Convert JPG images to PDF in seconds. Easily adjust orientation and margins.",
+			"button": "Select JPG images",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"excel_to_pdf": {
+			"id": 5,
+			"title": "Convert EXCEL to PDF",
+			"subTitle": "Make EXCEL spreadsheets easy to read by converting them to PDF.",
+			"button": "Select EXCEL files",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"pdf_to_jpg": {
+			"id": 6,
+			"title": "PDF to JPG",
+			"subTitle": "Convert each PDF page into a JPG or extract all images contained in a PDF.",
+			"button": "Select PDF files",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"repair": {
+			"id": 7,
+			"title": "Repair PDF file",
+			"subTitle": "Upload a corrupt PDF and we will try to fix it. Depending on how much the PDF is damaged we will be able to recover it partially or completely.",
+			"button": "Select PDF file",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"rotate": {
+			"id": 8,
+			"title": "Rotate PDF",
+			"subTitle": "Rotate your PDFs the way you need them. You can even rotate multiple PDFs at once!",
+			"button": "Select PDF files",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"watermark": {
+			"id": 9,
+			"title": "Add watermark into a PDF",
+			"subTitle": "Stamp an image or text over your PDF in seconds. Choose the typography, transparency and position.",
+			"button": "Select PDF file",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"unlock": {
+			"id": 10,
+			"title": "Unlock PDF",
+			"subTitle": "Remove PDF password security, giving you the freedom to use your PDFs as you want.",
+			"button": "Select PDF files",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		},
+
+		"protect": {
+			"id": 11,
+			"title": "Protect PDF file",
+			"subTitle": "Encrypt your PDF with a password to keep sensitive data confidential.",
+			"button": "Select PDF file",
+			"footer": "© PDFLover 2023 ® - Your PDF Editor"
+		}
+	}
+}

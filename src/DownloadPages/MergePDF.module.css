@@ -1,0 +1,81 @@
+.main {
+    margin-top: 60px;
+    overflow: hidden;
+}
+
+.tool {
+    height: calc(100vh - 60px);
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.tool__workarea {
+    text-align: center;
+    height: 100%;
+    padding: 24px;
+    box-sizing: border-box;
+    flex: 1 1;
+    background-color: #f3f0ec;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+}
+
+.tool__header {
+    padding: 10px;
+}
+
+.tool__header__title {
+    font-size: 30px;
+    letter-spacing: 0;
+    font-weight: 500;
+    color: #383e45;
+    margin-bottom: 8px;
+    line-height: 46px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.uploader {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 72px;
+    text-align: center;
+    position: relative;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+#pickFiles {
+    background: #FE4F62;
+    padding: 20px 50px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 32px;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 12px;
+    transition: all .1s linear;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .14);
+}
+
+#pickFiles:hover {
+    background-color: black;
+}
+
+@media (max-width: 365px) {
+    #pickFiles {
+        padding: 15px 22px;
+        font-size: 20px;
+    }
+}

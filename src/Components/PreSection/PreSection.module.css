@@ -1,0 +1,53 @@
+/* CSS */
+.button-71 {
+  background-color: white;
+  border: 0;
+  border-radius: 5px;
+  color: #FE4F62;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 16px 48px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .button-71 {
+    padding: 16px 48px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.skeleton-box {
+  background-color: rgba(0, 0, 0, 0.11);
+  padding: 2px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  border-radius: 6px;
+}
+
+.pre__text {
+  font-size: 35px;
+  color: white;
+  font-weight: 700;
+}
+
+.pre__subtext {
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+  padding: 20px;
+}
+
+.pre__box {
+  background-color: #FE4F62;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+}
